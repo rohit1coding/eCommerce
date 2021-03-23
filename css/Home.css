@@ -20,6 +20,7 @@
     height: 30rem;
     margin: 1rem;
     padding:.1rem;
+    align-items: center;
     border:.2rem solid burlywood;
     display: flex;
     float: left;
