@@ -5,13 +5,13 @@
   }
   @media(max-width:768px){
     html{
-      font-size: 50%;
+      font-size: 80%;
     }
   }
   
 .pruduct_img{
-    width: 16rem;
-    height: 16rem;
+    width: 15rem;
+    height: 13rem;
     border: .1rem;
 }
 
