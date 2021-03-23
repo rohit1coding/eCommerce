@@ -10,13 +10,13 @@
   }
   
 .pruduct_img{
-    width: 15rem;
+    width: 13rem;
     height: 13rem;
     border: .1rem;
 }
 
 .card{
-    width: 16rem;
+    width: 14rem;
     height: 30rem;
     margin: 1rem;
     padding:.1rem;
@@ -37,4 +37,8 @@
     padding-top: 2rem;
     /* margin: 1rem; */
     background-color: gray;
+}
+.all_products{
+  align-items: center;
+  /* margin: 7rem; */
 }
